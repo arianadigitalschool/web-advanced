@@ -1,0 +1,68 @@
+@font-face {
+    font-family: "Lovely Greeting";
+    src: url("lovely_greeting/Lovely\ Greeting.ttf");
+}
+h1{
+    color: green;
+    letter-spacing: 20px;
+    word-spacing: 40px;
+    font-size: 60px;
+    
+}
+/* p{
+    /* font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; */
+    /* text-indent: 100px;
+    text-align: center;
+    font-family: "Lovely Greeting";} */
+p{
+    color: violet;
+    font-size: 20px;
+
+}
+h2{
+    text-decoration: overline;
+    color: red;
+}
+h3{
+    color: blue;
+    text-decoration: line-through;
+}
+h4{
+    text-decoration: underline;
+    color: purple;
+}
+.p1{
+    color: blue;
+    text-align: center;
+    background-color: bisque;
+}
+
+#p2{
+    font-style: normal;
+    color: red;
+    font-weight: normal;
+}
+#p3{
+    font-style: italic;
+    color: grey;
+    font-weight: bold;
+}
+#p4{
+    font-style: oblique;
+    color: lime;
+    font-weight: 900;
+}
+
+a:link{
+    color: red;
+}
+
+a:visited{
+    color: green;
+}
+a:hover{
+    color: hotpink;
+}
+a:active{
+    color: blue;
+}
